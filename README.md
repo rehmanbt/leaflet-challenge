@@ -5,3 +5,4 @@ Successfully able to import the dataset and created the visualizations from the 
 Data markers with unique colors based on magnitude of the earthquake by size and depth appeared in required colors.
 Marker information pop-up on click providing details regarding location, depth and magnitude. 
 Legend added to map as per the requirement in javascript code.
+Picture named 'Output image' saved as the result of final results appearing on the page.
