@@ -6,3 +6,4 @@ Data markers with unique colors based on magnitude of the earthquake by size and
 Marker information pop-up on click providing details regarding location, depth and magnitude. 
 Legend added to map as per the requirement in javascript code.
 Picture named 'Output image' saved as the result of final results appearing on the page.
+Updated the corrected index.html file and static folder as per correct code. Previous documents and output images appearing as is and remained unchanged.
